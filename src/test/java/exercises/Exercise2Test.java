@@ -58,7 +58,7 @@ public class Exercise2Test extends TestSetup {
 			}
 		}
 	}
-
+	// test
 	@Test
 	public void testFileClosedAliasing() {
 		reporter = new VulnerabilityReporter();
